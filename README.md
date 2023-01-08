@@ -1,1 +1,1 @@
-This thing can lock folders and files.
+This thing can lock folders
